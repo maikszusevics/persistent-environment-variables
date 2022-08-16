@@ -15,3 +15,7 @@
 - 
 
 ![image](https://user-images.githubusercontent.com/110176257/184866468-53f93c15-aa2e-4a88-b11f-42e6a5e50c6f.png)
+
+# Multiple VMs:
+vagrantfile edited to make "app" and "db" machines:
+![image](https://user-images.githubusercontent.com/110176257/184896640-fd8621d9-560e-44c1-93bf-0cc0f09ec829.png)
